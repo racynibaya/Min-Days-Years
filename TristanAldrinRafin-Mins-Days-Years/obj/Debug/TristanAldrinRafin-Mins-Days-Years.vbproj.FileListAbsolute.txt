@@ -1,0 +1,12 @@
+C:\Users\racyn\source\repos\TristanAldrinRafin-Mins-Days-Years\TristanAldrinRafin-Mins-Days-Years\bin\Debug\TristanAldrinRafin-Mins-Days-Years.exe.config
+C:\Users\racyn\source\repos\TristanAldrinRafin-Mins-Days-Years\TristanAldrinRafin-Mins-Days-Years\bin\Debug\TristanAldrinRafin-Mins-Days-Years.exe
+C:\Users\racyn\source\repos\TristanAldrinRafin-Mins-Days-Years\TristanAldrinRafin-Mins-Days-Years\bin\Debug\TristanAldrinRafin-Mins-Days-Years.pdb
+C:\Users\racyn\source\repos\TristanAldrinRafin-Mins-Days-Years\TristanAldrinRafin-Mins-Days-Years\bin\Debug\TristanAldrinRafin-Mins-Days-Years.xml
+C:\Users\racyn\source\repos\TristanAldrinRafin-Mins-Days-Years\TristanAldrinRafin-Mins-Days-Years\obj\Debug\TristanAldrinRafin-Mins-Days-Years.vbproj.AssemblyReference.cache
+C:\Users\racyn\source\repos\TristanAldrinRafin-Mins-Days-Years\TristanAldrinRafin-Mins-Days-Years\obj\Debug\TristanAldrinRafin_Mins_Days_Years.Form1.resources
+C:\Users\racyn\source\repos\TristanAldrinRafin-Mins-Days-Years\TristanAldrinRafin-Mins-Days-Years\obj\Debug\TristanAldrinRafin_Mins_Days_Years.Resources.resources
+C:\Users\racyn\source\repos\TristanAldrinRafin-Mins-Days-Years\TristanAldrinRafin-Mins-Days-Years\obj\Debug\TristanAldrinRafin-Mins-Days-Years.vbproj.GenerateResource.cache
+C:\Users\racyn\source\repos\TristanAldrinRafin-Mins-Days-Years\TristanAldrinRafin-Mins-Days-Years\obj\Debug\TristanAldrinRafin-Mins-Days-Years.vbproj.CoreCompileInputs.cache
+C:\Users\racyn\source\repos\TristanAldrinRafin-Mins-Days-Years\TristanAldrinRafin-Mins-Days-Years\obj\Debug\TristanAldrinRafin-Mins-Days-Years.exe
+C:\Users\racyn\source\repos\TristanAldrinRafin-Mins-Days-Years\TristanAldrinRafin-Mins-Days-Years\obj\Debug\TristanAldrinRafin-Mins-Days-Years.xml
+C:\Users\racyn\source\repos\TristanAldrinRafin-Mins-Days-Years\TristanAldrinRafin-Mins-Days-Years\obj\Debug\TristanAldrinRafin-Mins-Days-Years.pdb
